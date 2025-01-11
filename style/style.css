@@ -171,23 +171,23 @@ ul li{
   margin-left: 60px;
  }
  
+ /* paragraph opacity */
+ .text-op{
+  opacity: 60%;
+ }
 
- /* The vision of the futurte */
+ /* The vision of the future */
 
  main{
   max-width: 2230px;
   margin: 80px auto;
 }
 
- .ach-title{
+ .achivement-title{
   font-size: 20px;
   font-weight: bold;
 }
-.ach{   
-  padding: 30px;
-  box-shadow: 0 6px 50px 0 rgba(0, 0, 0, 0.06);
-  border-radius: 16px;
-}
+
 .vision-container{
   display: flex;
   gap: 24px;
@@ -208,7 +208,7 @@ ul li{
 .mi{
   background-color: #F7EBCF;
 }
-.vis-but-1{
+.transformation{
   border-radius: 8px;
   background-color: #5490F5;
   color: #FFFFFF;
@@ -217,7 +217,7 @@ ul li{
   border-radius: 5px;
   border: none;
 }
-.vis-but-2{
+.energy{
   border-radius: 8px;
   background-color: #09A15C;
   color: #FFFFFF;
@@ -226,7 +226,7 @@ ul li{
   border-radius: 5px;
   border: none;
 }
-.vis-but-3{
+.infrastructure{
   border-radius: 8px;
   background-color: #FFC239;
   color: #FFFFFF;
@@ -334,7 +334,7 @@ section div input[type="email"]{
   font-size: 40px;
   font-weight: bold;
 }
-.layout-des{
+.layout-design{
   justify-content: center;
   padding-left: 0px;
   text-align: center;
